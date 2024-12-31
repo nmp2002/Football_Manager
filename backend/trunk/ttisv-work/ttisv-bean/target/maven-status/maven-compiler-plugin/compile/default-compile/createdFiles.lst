@@ -1,0 +1,13 @@
+com\ttisv\bean\system\TblDepartment.class
+com\ttisv\bean\Role.class
+com\ttisv\bean\system\TblUser.class
+com\ttisv\bean\User.class
+com\ttisv\bean\system\TblGroupRole.class
+com\ttisv\bean\system\TblMenu.class
+com\ttisv\bean\dm\TblParam.class
+com\ttisv\bean\system\TblUserPermission.class
+com\ttisv\bean\system\TblRoleObject.class
+com\ttisv\bean\dm\ObjCbb.class
+com\ttisv\bean\system\TblRole.class
+com\ttisv\bean\UserRole.class
+com\ttisv\bean\system\TblMenuBtn.class
